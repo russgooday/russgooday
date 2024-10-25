@@ -1,8 +1,8 @@
 ### Russell Gooday
 
-With a background in 3D illustration and visualisation, I have had a long running side interest in programming. This stems back to a happy youth in the 80's programming in Basic and Assembly Language on the C64 and Amstrad CPC6128. I am currently looking to make the transition into Data Engineering, and having programmed predominately in Javascript I am embracing the world of Python.
+With a background in 3D illustration and visualisation, I've had a long running side interest in programming. This stems back to the 80's and a lot of happy hours programming in Basic and Assembly on the C64 and Amstrad CPC6128. Having programmed predominately in Javascript over the last decade, I am now embracing the world of Python and looking to make the transition into Data Engineering.
 
-Important to me and something I want to develop are good coding practices, naming conventions, type annotations, docstrings, modular code, short single purpose functions. Essentially code that is functional, easy to maintain, and pleasing to the eye.
+One thing I care a lot about is writing good, clean code. I’m working on solid coding practices, like clear naming conventions, type annotations, docstrings, modular code, and short single-purpose functions. My goal is to write code that’s functional, easy to maintain, and easy on the eyes.
 
 - 🌱 Currently learning: **Python FP/OOP, SQLAlchemy, Pandas, Terraform**
 - 🔭 Working on: **[Folio of Python projects](https://github.com/russgooday/northcoders-course-projects), [Python FP Library](https://github.com/russgooday/functional_python)**
