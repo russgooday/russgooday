@@ -6,7 +6,7 @@ One thing I care a lot about is writing good, clean code. I’m working on solid
 
 - 🌱 Currently learning: **Python FP/OOP, SQLAlchemy, Pandas, Terraform**
 - 🔭 Working on: **[Folio of Python projects](https://github.com/russgooday/northcoders-course-projects), [Python FP Library](https://github.com/russgooday/functional_python)**
-- 🌍 Languages: **Python, Javascript, HTML, CSS**
+- 🌍 Languages: **Python, Javascript, HTML, CSS** (A little bit of Thai:))
 
 [<img src='https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white'>](https://www.linkedin.com/in/russell-gooday-1b890a69/)  [<img src='https://img.shields.io/badge/Codepen-000000?style=flat&logo=codepen&logoColor=white'>](https://codepen.io/collection/rxGpxw)
 
