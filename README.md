@@ -1,6 +1,6 @@
 ### Russell Gooday
 
-With a background in 3D illustration and visualisation, I have had a long running side interest in programming. This stems back to a happy youth programming in Basic and Assembly Language on the C64 and Amstrad CPC6128. I am currently looking to make the transition into Data Engineering, and having programmed predominately in Javascript I am embracing the world of Python.
+With a background in 3D illustration and visualisation, I have had a long running side interest in programming. This stems back to a happy youth in the 80's programming in Basic and Assembly Language on the C64 and Amstrad CPC6128. I am currently looking to make the transition into Data Engineering, and having programmed predominately in Javascript I am embracing the world of Python.
 
 Important to me and something I want to develop are good coding practices, naming conventions, type annotations, docstrings, modular code, short single purpose functions. Essentially code that is functional, easy to maintain, and pleasing to the eye.
 
