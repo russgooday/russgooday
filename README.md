@@ -1,4 +1,4 @@
-### Russell Gooday
+![](https://komarev.com/ghpvc/?username=russgooday&color=green)
 
 With a background in 3D illustration and visualisation, I've had a long running side interest in programming. This stems back to the 80's and a lot of happy hours programming in Basic and Assembly on the C64 and Amstrad CPC6128. Having programmed predominately in Javascript over the last decade, I am now embracing the world of Python and looking to make the transition into Data Engineering.
 
