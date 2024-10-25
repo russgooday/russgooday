@@ -3,6 +3,7 @@
 With a background in 3D illustration and visualisation, I've had a long running side interest in programming. This stems back to the 80's and a lot of happy hours programming in Basic and Assembly on the C64 and Amstrad CPC6128. Having programmed predominately in Javascript over the last decade, I am now embracing the world of Python and looking to make the transition into Data Engineering.
 
 One thing I care a lot about is writing good, clean code. I’m working on solid coding practices, like clear naming conventions, type annotations, docstrings, modular code, and short single-purpose functions. My goal is to write code that’s functional, easy to maintain, and easy on the eyes.
+
 [<img src='https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white'>](https://www.linkedin.com/in/russell-gooday-1b890a69/)  [<img src='https://img.shields.io/badge/Codepen-000000?style=flat&logo=codepen&logoColor=white'>](https://codepen.io/collection/rxGpxw)
 
 - 🌱 Currently learning: **Python FP/OOP, SQLAlchemy, Pandas, Terraform**
